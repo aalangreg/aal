@@ -1,0 +1,27 @@
+[
+  {
+    "id": "bbw",
+    "name": "Bath & Body Works",
+    "logo": "https://placehold.co/200x80/ffffff/000000?text=Bath+%26+Body+Works"
+  },
+  {
+    "id": "nyx",
+    "name": "NYX Professional Makeup",
+    "logo": "https://placehold.co/200x80/ffffff/000000?text=NYX"
+  },
+  {
+    "id": "elf",
+    "name": "e.l.f Cosmetics",
+    "logo": "https://placehold.co/200x80/ffffff/000000?text=e.l.f.+Cosmetics"
+  },
+  {
+    "id": "may",
+    "name": "Maybelline New York",
+    "logo": "https://placehold.co/200x80/ffffff/000000?text=Maybelline"
+  },
+  {
+    "id": "cerave",
+    "name": "CeraVe",
+    "logo": "https://placehold.co/200x80/ffffff/000000?text=CeraVe"
+  }
+]

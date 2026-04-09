@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Japanese Cherry Blossom Brume",
+    "brand": "Bath & Body Works",
+    "category": "Brume",
+    "price": 15000,
+    "image": "/images/body_mist_1775708972940.png"
+  },
+  {
+    "id": 2,
+    "name": "Butter Gloss Praline",
+    "brand": "NYX Professional Makeup",
+    "category": "Lip gloss",
+    "price": 6500,
+    "image": "/images/lip_gloss_1775708957973.png"
+  },
+  {
+    "id": 3,
+    "name": "Daily Hydration Lotion",
+    "brand": "e.l.f Cosmetics",
+    "category": "Lotion",
+    "price": 12000,
+    "image": "/images/lotion_bottle_1775708943118.png"
+  },
+  {
+    "id": 4,
+    "name": "A Thousand Wishes Shower Gel",
+    "brand": "Bath & Body Works",
+    "category": "Gel douche",
+    "price": 14000,
+    "image": "/images/shower_gel_1775708985304.png"
+  },
+  {
+    "id": 5,
+    "name": "Hydrating Cleanser",
+    "brand": "CeraVe",
+    "category": "Lotion",
+    "price": 18000,
+    "image": "/images/lotion_bottle_1775708943118.png"
+  },
+  {
+    "id": 6,
+    "name": "Warm Vanilla Sugar Brume",
+    "brand": "Bath & Body Works",
+    "category": "Brume",
+    "price": 15000,
+    "image": "/images/body_mist_1775708972940.png"
+  }
+]
